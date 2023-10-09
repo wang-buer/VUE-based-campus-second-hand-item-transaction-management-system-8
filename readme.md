@@ -10,7 +10,11 @@
 
 用户：登录注册、购物车、发布闲置物品、评论、发货、收货地址管理等
 
+## 获取方式
 
+扫描下方，回复关键词  ： **二手** ，以获取源码  
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架：springboot、Mybatis
