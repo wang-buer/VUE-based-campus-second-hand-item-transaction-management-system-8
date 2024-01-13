@@ -10,11 +10,7 @@
 
 用户：登录注册、购物车、发布闲置物品、评论、发货、收货地址管理等
 
-## 获取方式
 
-扫描下方，回复关键词  ： **二手** ，以获取源码  
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架：springboot、Mybatis
@@ -35,41 +31,42 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/09/GCOH3LgiqnpWTkl.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311162015993.jpg)
 
 ### 4.2 前端模块
 
-![](https://s2.loli.net/2023/10/09/GCOH3LgiqnpWTkl.jpg)
+![商品详情](https://www.codeshop.fun/Typora-Images/202311162015060.jpg)
 
-![商品详情](https://s2.loli.net/2023/10/09/pz3lEcSfj4wUWJC.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311162015052.jpg)
 
 ### 4.3 用户模块
 
-![用户-地址管理](https://s2.loli.net/2023/10/09/4RxS7lC1YmygOri.jpg)
+![用户-下单](https://www.codeshop.fun/Typora-Images/202311162015165.jpg)
 
-![用户-购物车](https://s2.loli.net/2023/10/09/tsWO5CiHu4LM7Db.jpg)
+![用户-地址管理](https://www.codeshop.fun/Typora-Images/202311162015171.jpg)
 
-![下单](https://s2.loli.net/2023/10/09/PBpser5JSlCEo8D.jpg)
+![用户-发布闲置](https://www.codeshop.fun/Typora-Images/202311162015182.jpg)
 
-![用户-发布闲置](https://s2.loli.net/2023/10/09/hUXL7QPSE6Mjsmg.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202311162015186.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-闲置管理1](https://s2.loli.net/2023/10/09/kOPaHqWBeoLgwrT.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311162015277.jpg)
 
-![管理员-订单管理](https://s2.loli.net/2023/10/09/gfUFzH6c7s3etlO.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202311162015284.jpg)
 
-![管理员-用户管理](https://s2.loli.net/2023/10/09/hQTMqt1WpgIENe7.jpg)
+![管理员-违规用户](https://www.codeshop.fun/Typora-Images/202311162015302.jpg)
 
-![管理员-违规用户](https://s2.loli.net/2023/10/09/N7UAj9BxLDMkXKb.jpg)
+![管理员-闲置管理1](https://www.codeshop.fun/Typora-Images/202311162015310.jpg)
 
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：二手
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![管理员-闲置管理2](https://www.codeshop.fun/Typora-Images/202311162015305.jpg)
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
